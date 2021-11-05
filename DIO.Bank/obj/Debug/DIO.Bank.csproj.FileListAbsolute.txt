@@ -1,0 +1,7 @@
+G:\Curso\C#\DIO\DIO.Bank\DIO.Bank\obj\Debug\DIO.Bank.csprojAssemblyReference.cache
+G:\Curso\C#\DIO\DIO.Bank\DIO.Bank\obj\Debug\DIO.Bank.csproj.CoreCompileInputs.cache
+G:\Curso\C#\DIO\DIO.Bank\DIO.Bank\bin\Debug\DIO.Bank.exe.config
+G:\Curso\C#\DIO\DIO.Bank\DIO.Bank\bin\Debug\DIO.Bank.exe
+G:\Curso\C#\DIO\DIO.Bank\DIO.Bank\bin\Debug\DIO.Bank.pdb
+G:\Curso\C#\DIO\DIO.Bank\DIO.Bank\obj\Debug\DIO.Bank.exe
+G:\Curso\C#\DIO\DIO.Bank\DIO.Bank\obj\Debug\DIO.Bank.pdb
